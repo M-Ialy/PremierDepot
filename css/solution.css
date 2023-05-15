@@ -1,0 +1,91 @@
+.line {
+    background: #ddd;
+    width: 180px;
+    height: 4px;
+    margin: auto;
+}
+
+.line span {
+    background-color: #731010;
+    display: block;
+    width: 100px;
+    height: 4px;
+    margin: auto;
+}
+
+.services {
+    padding-bottom: 20px;
+}
+
+.services .icon-box {
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 0 40px 0;
+    background: #fff;
+    box-shadow: 0 5px 26px 0 rgba(68, 88, 144, 0.14);
+    transition: all 0.3s ease-in-out;
+    text-align: center;
+    border: 1px solid #fff;
+}
+
+.services .icon {
+    margin: 0 auto 20px auto;
+    padding-top: 17px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+}
+
+h2 {
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+.contenu {
+    margin-top: 100px;
+}
+
+.services .icon img {
+    width: 50px;
+    line-height: 1;
+}
+
+.services .title {
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.services .title a {
+    color: #111;
+}
+
+.services .description {
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.services .icon-box-pink:hover {
+    border-color: #731010;
+}
+
+.services .icon-box-cyan:hover {
+    border-color: #731010;
+}
+
+.services .icon-box-green:hover {
+    border-color: #731010;
+}
+
+
+.services .icon-box-blue:hover {
+    border-color: #731010;
+}
